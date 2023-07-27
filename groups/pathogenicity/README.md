@@ -29,11 +29,11 @@ week3: 比對Aldy的star allele type和minimap2 的seq alignment的檔案當中�
 
 婕瑜 俞安 :
 
-看東祈學長的影片+裝環境+下載reference file ，samtools 有error正在處理
+看前年上課影片+環境安裝+下載reference file ，samtools 有error正在處理
 
 怡辰 文芳 天泂:
 
-read mapping +下載reference file
+嘗試read mapping +下載reference file+command line 閱讀
 
 品皓:
 
