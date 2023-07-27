@@ -20,3 +20,25 @@ week1: 使用minimap2出來的vcf檔和Aldy跑出star allele type
 week2: 比對Aldy的star allele type和vcf檔的變異點位 是否相同或有出入
 
 week3: 比對Aldy的star allele type和minimap2 的seq alignment的檔案當中的變異點位 是否相同或有出入
+###################################################################
+# 7/27
+妤芊:
+我這周的進度是: 還在看要怎麼讓Aldy可以正確產生分析檔案
+因為目前下完指令之後
+都會跑出一些奇怪的error
+
+婕瑜 俞安 :
+
+1 看前年上課影片
+2 環境安裝 ，samtools 有error正在處理 
+3 下載reference file 
+
+怡辰 文芳 天泂:
+
+1 嘗試read mapping 
+2 下載reference file
+3 command line 閱讀
+
+品皓:
+
+病假
