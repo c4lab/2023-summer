@@ -34,3 +34,7 @@ week3: 比對Aldy的star allele type和minimap2 的seq alignment的檔案當中�
 怡辰 文芳 天泂:
 
 read mapping +下載reference file
+
+品皓:
+
+病假
