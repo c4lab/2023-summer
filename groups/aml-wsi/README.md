@@ -21,5 +21,5 @@ best_model = torch.load(args.output_dir + f'/BestModel_{i + 1}.pt', map_location
 /cell_detection_yolov4.py）將ROI images中的每顆細胞照片裁切出來
 
 ## 2023-8-3
-1.大家都成功切割出單顆細胞影像
-2.建立完畢下週四的成果發表會
+1. 大家都成功切割出單顆細胞影像
+2. 建立完畢下週四的成果發表會
