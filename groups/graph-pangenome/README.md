@@ -16,7 +16,9 @@
 4. 亭堅：已經重新跑完 TWBB 1492 sample，目前正在對結果，看參數調整後是否仍對結果有影響(預期是沒有)。另外，希望能抓出造成 CN 變 2,4 的原因，並與紅葉討論可能的解決方案。
 
 ### 08/03
-1. 冠達：經由學長指導解決hisatgenotype的index和samtools的error，預計要跑6組samples的A,B,C,DRB1,DQA目前graph_KIR仍有一些error無法順利跑，有與學長另外約時間解決；理想上希望下周能分享allele typing的結果、graph KIR的method比較結果。
+1. 冠達：(1) 經由學長指導解決hisatgenotype的index和samtools的error，預計要跑6組samples的A,B,C,DRB1,DQA
+(2) 目前graph_KIR仍有一些error無法順利跑，有與學長另外約時間解決
+(3) 理想上希望下周能分享allele typing的結果、graph KIR的method比較結果 
 3. 亭堅：(1) 和冠達分享 Graph-KIR 程式，讓他跑看看，目前測試時有遇到問題，會再確認是不是Graph-KIR本身的問題。 (2) 預期針對 TBB 50 samples 做 exon-firtst 的 typing，這部分會請冠達協助。
 4. 顯鈞：整理好 hisat2 的流程， command 以及一些說明，若是在跑完 GRAPH-KIR 以及 hisat-genotype 之後希望能用準備好的 fasta 以及 fastq 檔順利產出最終的 output sam 檔
 5. 冠穎：解決hisatgenotype的index和samtools的error，最後成功跑出一組HLA-A alleles的結果，後續會跑6組samples的A,B,C,DRB1,DQA，最後會將typing出的結果整理成表格，在下禮拜呈現。
