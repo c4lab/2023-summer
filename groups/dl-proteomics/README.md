@@ -26,11 +26,11 @@ Find the determined variants of second field in A*01 (e.g. A*01:02:01:01, A*01:0
 Data source: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/alignments/A_prot.txt
 
 ## 8/3
-###本日進度：
+### 本日進度：
 1. HW Review
 2. Built a script for transforming training/valid dataset
 
-###Next week presentation (15min
+### Next week presentation (15min
  1. MHC-1、MHC binding (4min
  2. MHC binding tools-MHCfovea (4min
  3. A_prot 作業練習 (3min
