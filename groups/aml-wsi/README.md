@@ -19,3 +19,7 @@ best_model = torch.load(args.output_dir + f'/BestModel_{i + 1}.pt', map_location
 1. whole slide image (e.g. "A314") -> HCT_region_select/main.py -> 輸出一大堆region of interest images（or NOT ROI），並將其絕對路徑存成一個excel檔（已經區分成 ROI vs non-ROI）
 2. 承接第一步, 用crop_cell函數（參考學長github repo: AML/HCT_cell_detection
 /cell_detection_yolov4.py）將ROI images中的每顆細胞照片裁切出來
+
+## 2023-8-3
+1.大家都成功切割出單顆細胞影像
+2.建立完畢下週四的成果發表會
